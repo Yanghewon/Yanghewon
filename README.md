@@ -1,5 +1,5 @@
-<!-- 헤더 물결 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Yanghewon&fontSize=42&fontAlign=50&fontAlignY=32)
+<!-- 헤더 물결 (파스텔톤) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=7&height=180&section=header&text=Yanghewon&fontSize=42&fontAlign=50&fontAlignY=32)
 
 <!-- 섹션: Stacks • Studying -->
 <h3 align="center">🔧 Stacks • Studying 🔧</h3>
@@ -49,12 +49,14 @@
 
 <p align="center">
   <!-- solved.ac 티어 카드 -->
-  <a href="https://solved.ac/profile/gjskdud0000">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gjskdud0000" alt="Solved.ac Profile"/>
+  <a href="https://solved.ac/profile/puaie01">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=puaie01" alt="Solved.ac Profile"/>
   </a>
   <br/>
   <!-- 백준 히트맵 -->
-  <img src="https://mazandi.herokuapp.com/api?handle=gjskdud0000&theme=warm"/>
+  <a href="https://www.acmicpc.net/user/puaie01">
+    <img src="https://mazandi.herokuapp.com/api?handle=puaie01&theme=warm"/>
+  </a>
 </p>
 
 <br/>
@@ -74,5 +76,5 @@
   </a>
 </p>
 
-<!-- 푸터 물결 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+<!-- 푸터 물결 (파스텔톤) -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=7&height=120&section=footer)
