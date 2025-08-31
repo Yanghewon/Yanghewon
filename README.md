@@ -109,7 +109,7 @@
 
 <p align="center">
 <a href="https://god-newbie.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-%EB%B8%94%EB%A1%9C%EA%B7%B8-FF5A5F?logo=tistory&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tistory-%EB%B8%94%EB%A1%9C%EA%B7%B8-FF5A5F?logo=tistory&logoColor=fff" />
 </a>
 &nbsp;
 <a href="mailto:hewon8883@naver.com">
