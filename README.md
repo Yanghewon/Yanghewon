@@ -1,5 +1,5 @@
-<!-- 헤더 물결 (파스텔톤) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=7&height=180&section=header&text=Yanghewon&fontSize=42&fontAlign=50&fontAlignY=32)
+<!-- 헤더 물결 (파스텔톤: 노랑~핑크~하늘색 그라데이션) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=180&section=header&text=Yanghewon&fontSize=42&fontAlign=50&fontAlignY=32)
 
 <!-- 섹션: Stacks • Studying -->
 <h3 align="center">🔧 Stacks • Studying 🔧</h3>
@@ -25,16 +25,35 @@
 <h3 align="center">📂 Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/kymokim/OAuth_Forum"><b>CRUD BE Project</b></a> ·
-  Spring Boot · JPA · MariaDB · Swagger
-  <br/>
-  <a href="https://github.com/aidenjangkkj/Meta.git"><b>Internship Landing Page</b></a> ·
-  React · TailwindCSS
+  <table>
+    <tr>
+      <td width="30%" align="center"><b><a href="https://github.com/kymokim/OAuth_Forum">CRUD BE Project</a></b></td>
+      <td>
+        🖥 <b>Backend</b><br/>
+        Spring Boot · Spring Data JPA · MariaDB · Swagger
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b><a href="https://github.com/aidenjangkkj/Meta.git">Internship Landing Page</a></b></td>
+      <td>
+        🎨 <b>Frontend</b><br/>
+        React · TailwindCSS
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b><a href="https://github.com/Yanghewon/MockView.git">졸업작품 / FE</a></b></td>
+      <td>
+        🎯 <b>Frontend</b><br/>
+        React · TailwindCSS · React Router · Axios · Mock API(json-server)<br/>
+        📐 <b>Design</b> : Figma
+      </td>
+    </tr>
+  </table>
 </p>
 
 <br/>
 
-<!-- 섹션: GitHub Stats (언어/활동 랭킹 카드) -->
+<!-- 섹션: GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -48,12 +67,10 @@
 <h3 align="center">📚 Problem Solving</h3>
 
 <p align="center">
-  <!-- solved.ac 티어 카드 -->
   <a href="https://solved.ac/profile/puaie01">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=puaie01" alt="Solved.ac Profile"/>
   </a>
   <br/>
-  <!-- 백준 히트맵 -->
   <a href="https://www.acmicpc.net/user/puaie01">
     <img src="https://mazandi.herokuapp.com/api?handle=puaie01&theme=warm"/>
   </a>
@@ -76,5 +93,5 @@
   </a>
 </p>
 
-<!-- 푸터 물결 (파스텔톤) -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=7&height=120&section=footer)
+<!-- 푸터 물결 (파스텔톤: 노랑~핑크~하늘색 그라데이션) -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=120&section=footer)
