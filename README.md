@@ -48,28 +48,30 @@
 <!-- 프로젝트 카드 스타일 -->
 <div align="center">
 
-💻 <b>CRUD BE Project</b><br/>
-<code>🖥 Backend · Spring Boot · Spring Data JPA · MariaDB · Swagger</code><br/>
+💻 <b>CRUD BE Project</b><br/><br/>
+<code>🖥 Backend · Spring Boot · Spring Data JPA · MariaDB · Swagger</code><br/><br/>
 <a href="https://github.com/kymokim/OAuth_Forum">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white"/>
 </a>
 
----
+<br/><br/> <!-- 프로젝트 간 간격 추가 -->
 
-🎨 <b>Internship Landing Page</b><br/>
-<code>Frontend · React · TailwindCSS</code><br/>
+🎨 <b>Internship Landing Page</b><br/><br/>
+<code>Frontend · React · TailwindCSS</code><br/><br/>
 <a href="https://github.com/aidenjangkkj/Meta.git">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white"/>
 </a>
 
----
+<br/><br/> <!-- 프로젝트 간 간격 추가 -->
 
-🎯 <b>졸업작품 MockView</b> <br/>
-<code>📐 Design: Figma</code><br/>
-<code>Frontend · React · TailwindCSS · React Router · Axios · Mock API(json-server)</code><br/>
+🎯 <b>졸업작품 MockView</b><br/><br/>
+<code>📐 Design: Figma</code><br/><br/>
+<code>Frontend · React · TailwindCSS · React Router · Axios · Mock API(json-server)</code><br/><br/>
 <a href="https://github.com/Yanghewon/MockView.git">
   <img src="https://img.shields.io/badge/GitHub-졸업작품%20MockView-181717?logo=github&logoColor=white"/>
 </a>
+
+</div>
 
 </div>
 
