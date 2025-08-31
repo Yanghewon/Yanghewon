@@ -28,6 +28,16 @@
 </tr>
 </table>
 
+<!-- ✨ React 중심 Favorite Stack 강조 -->
+<p align="center">
+  <br/>
+  <b>✨ Favorite Stack</b><br/><br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
 <br/>
 
 <!-- 섹션: Projects -->
@@ -110,7 +120,7 @@
 </p>
 
 <p align="center">
-✨ 언제든지 블로그나 메일로 소통 가능합니다. 함께 성장할 기회를 환영합니다! ✨
+✨ React와 Spring Boot를 좋아하는 풀스택 개발자 지망생입니다. ✨
 </p>
 
 <!-- 푸터 물결 (파스텔톤: 노랑~핑크~하늘색 그라데이션) -->
