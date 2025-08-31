@@ -24,32 +24,32 @@
 <!-- 섹션: Projects -->
 <h3 align="center">📂 Projects</h3>
 
-<p align="center">
-  <table>
-    <tr>
-      <td width="30%" align="center"><b><a href="https://github.com/kymokim/OAuth_Forum">CRUD BE Project</a></b></td>
-      <td>
-        🖥 <b>Backend</b><br/>
-        Spring Boot · Spring Data JPA · MariaDB · Swagger
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b><a href="https://github.com/aidenjangkkj/Meta.git">Internship Landing Page</a></b></td>
-      <td>
-        🎨 <b>Frontend</b><br/>
-        React · TailwindCSS
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b><a href="https://github.com/Yanghewon/MockView.git">졸업작품 / FE</a></b></td>
-      <td>
-        🎯 <b>Frontend</b><br/>
-        React · TailwindCSS · React Router · Axios · Mock API(json-server)<br/>
-        📐 <b>Design</b> : Figma
-      </td>
-    </tr>
-  </table>
-</p>
+<!-- 카드형 리스트: 가독성 개선 -->
+<ul>
+  <li>
+    <b>CRUD BE Project</b><br/>
+    🖥 <b>Backend</b> · Spring Boot · Spring Data JPA · MariaDB · Swagger<br/>
+    <a href="https://github.com/kymokim/OAuth_Forum">
+      <img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white"/>
+    </a>
+  </li>
+  <br/>
+  <li>
+    <b>Internship Landing Page</b><br/>
+    🎨 <b>Frontend</b> · React · TailwindCSS<br/>
+    <a href="https://github.com/aidenjangkkj/Meta.git">
+      <img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white"/>
+    </a>
+  </li>
+  <br/>
+  <li>
+    <b>졸업작품 / FE</b> · 📐 <b>Design</b>: Figma<br/>
+    🎯 <b>Frontend</b> · React · TailwindCSS · React Router · Axios · Mock API(json-server)<br/>
+    <a href="https://github.com/Yanghewon/MockView.git">
+      <img src="https://img.shields.io/badge/졸업작품%20MockView%20GitHub-Repository-181717?logo=github&logoColor=white"/>
+    </a>
+  </li>
+</ul>
 
 <br/>
 
@@ -78,19 +78,28 @@
 
 <br/>
 
-<!-- 섹션: Blog • Contact -->
+<!-- 섹션: Blog • Contact (링크 카드형으로 리디자인) -->
 <h3 align="center">🔗 Blog • Contact</h3>
 
 <p align="center">
-  <a href="https://god-newbie.tistory.com/manage">
-    <img src="https://img.shields.io/badge/Tistory-Blog-000000?logo=tistory&logoColor=white"/>
+  <!-- 링크 카드: 배지 크고 간결하게 -->
+  <a href="https://god-newbie.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-%EB%B8%94%EB%A1%9C%EA%B7%B8-000000?logo=tistory&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:hewon8883@naver.com">
-    <img src="https://img.shields.io/badge/Naver%20Mail-hewon8883@naver.com-03C75A?logo=naver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-hewon8883@naver.com-03C75A?logo=naver&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://github.com/Yanghewon">
     <img src="https://img.shields.io/badge/GitHub-Yanghewon-181717?logo=github&logoColor=white"/>
   </a>
+</p>
+
+<!-- 보조 링크(선택): 수평 구분선 + 한 줄 링크 -->
+<hr/>
+<p align="center">
+  더 자세한 작업물은 각 Repository에서 확인할 수 있어요.
 </p>
 
 <!-- 푸터 물결 (파스텔톤: 노랑~핑크~하늘색 그라데이션) -->
